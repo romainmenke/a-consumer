@@ -1,0 +1,24 @@
+{
+  "name": "a-consumer",
+  "version": "0.0.0",
+  "description": "a consumer",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainmenke/a-consumer.git"
+  },
+  "author": "Romain Menke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romainmenke/a-consumer/issues"
+  },
+  "homepage": "https://github.com/romainmenke/a-consumer#readme",
+  "dependencies": {
+    "another-dependency": "^0.1.1"
+  }
+}
