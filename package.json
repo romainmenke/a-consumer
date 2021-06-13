@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/romainmenke/a-consumer#readme",
   "dependencies": {
-    "another-dependency": "^0.1.1"
+    "dependency-bundle": "^0.1.3"
   }
 }
